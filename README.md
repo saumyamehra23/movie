@@ -1,2 +1,1 @@
-# movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+# We have made a movie recommendation based on cosine similarity
